@@ -10,12 +10,8 @@ Reddit-lite is written in Kotlin using the [Spring Boot](https://spring.io/proje
 You will need Java 8 or later to run it.
 
 ```sh
-git clone https://github.com/jamesbarnett91/reddit-lite && cd reddit-lite
+git clone https://github.com/ELECTROHAXZ/reddit-lite-nook && cd reddit-lite
 ./gradlew bootRun
-```
-Alternatively, you can pull the `jbarnett/reddit-lite` docker image and run that.
-```sh
-docker run --name reddit-lite -d -p 8080:8080 jbarnett/reddit-lite
 ```
 Then navigate to `localhost:8080` in your browser.
 
