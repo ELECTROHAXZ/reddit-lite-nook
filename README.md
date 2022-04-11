@@ -19,7 +19,7 @@ docker run --name reddit-lite -d -p 8080:8080 jbarnett/reddit-lite
 ```
 Then navigate to `localhost:8080` in your browser.
 
-Or go to [r.nook.tk)](https://r.nook.tk) for a hosted version.
+Or go to [r.nook.tk](https://r.nook.tk) for a hosted version.
 
 ## TODOs
 * ~~option to hide thumbnails~~ [done]
