@@ -1,4 +1,4 @@
-# reddit-lite
+# reddit-lite-nook
 
 Available at [r.nook.tk](https://r.nook.tk)
 
