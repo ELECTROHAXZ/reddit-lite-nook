@@ -11,12 +11,10 @@
   </@header>
 
   <div class="sort-section">
-    Sort posts by: 
-    <ul> 
+    Sort posts by:
     <li><a href="/r/${subreddit}/hot">Hot</a></li>
     <li><a href="/r/${subreddit}/new">New</a></li>
     <li><a href="/r/${subreddit}/top">Top</a></li>
-    </ul>
   </div>
 
 
