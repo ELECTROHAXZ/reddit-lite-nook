@@ -7,7 +7,7 @@
   </div>
   <div class="landing-desc">
     <div>
-      Navigate to /r/&lt;subreddit> or try some of the examples below:
+      Navigate to /r/&lt;subreddit> or try some of the subreddits below:
       <ul>
         <li>
           <a href="/r/tifu">/r/tifu</a>
